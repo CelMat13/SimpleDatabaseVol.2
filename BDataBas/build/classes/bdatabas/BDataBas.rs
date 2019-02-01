@@ -1,0 +1,2 @@
+bdatabas.osoba
+bdatabas.BDataBas
